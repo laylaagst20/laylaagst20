@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Programmation
 - 📫 How to reach me: laylaaugustausa@gmail.com
 - 😄 Pronouns: she/her
-- 📚 Anãlise e desenvolvimento de Sistemas
+- 📚 Análise e desenvolvimento de Sistemas
   
 
  <div>
