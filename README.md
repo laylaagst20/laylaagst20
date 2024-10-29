@@ -1,7 +1,5 @@
 ### Hi I'M LAYLA AUGUSTA 👋
 
-
-
 - 🌱 I’m currently learning Programmation
 - 📫 How to reach me: laylaaugustausa@gmail.com
 - 😄 Pronouns: she/her
