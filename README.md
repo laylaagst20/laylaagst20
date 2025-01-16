@@ -1,6 +1,6 @@
 ### Hi I'M LAYLA AUGUSTA 👋
 
-- 🌱 I’m currently learning Programmation
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me: laylaaugustausa@gmail.com
 - 😄 Pronouns: she/her
 - 📚 Análise e desenvolvimento de Sistemas
